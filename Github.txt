@@ -1,0 +1,12 @@
+
+git clone https://github.com/BradockBr/dio-desafio-github-primeiro-repositorio.git
+git status (dentro da pasta clonada, mostra o status da sincronização)
+git add .(lançar novos dados no git local)
+git add -A(lançar novos dados no git local)
+git commit -m "Inclusão de anotações"(usar para especificar alterações realizadas)
+git push origin main
+
+
+comandos=
+-cd (change directory)
+-ls (show directory folder e etch)
